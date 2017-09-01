@@ -1,0 +1,20 @@
+ordem criacao coisos
+
+alunos*
+professores*
+hora_aula
+escolas
+niveis
+disciplinas
+coordenadores*
+salas
+turmas
+turmas_disciplinas
+chamadas*
+atividades*
+grade_horarios
+frequencias
+notas
+
+
+Date
